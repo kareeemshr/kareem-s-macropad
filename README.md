@@ -17,3 +17,5 @@ im not really good at naming stuf so here my name :) even tho the macropads ugly
 
 **FIRMWARE**
 for the firmware i just made it so that all the keys write letters,ill actually make them do something when/if i get the hardware(no the rotary encoder doesnt do anything for now other than its button writing a letter)
+
+**this is all just three days of work with literally 0 experience before so like if it wasnt obvious now u know**
