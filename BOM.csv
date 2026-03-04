@@ -1,6 +1,7 @@
-ITEM,QTY,LINK
+ITEM,QTY,LINK,final price
 mx cherry switches,11,
 ec11 rotary encoder,1,https://waslleh.com/product/ec11-rotary-encoder-switch-module-with-switch-5pin/
 128x32 1306 oled display,1,https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V?th=1
 SEEED xiao rp2040,1,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+
 1N4148,12,https://www.sparkfun.com/diode-small-signal-1n4148.html
